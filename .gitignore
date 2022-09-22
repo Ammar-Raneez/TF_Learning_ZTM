@@ -2,4 +2,6 @@ best_model_SavedModel_format
 best_model_hdf5_format.h5
 .ipynb_checkpoints
 pizza_steak
+pizza_steak_model
 pizza_steak.zip
+*.jpeg
