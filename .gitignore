@@ -3,3 +3,4 @@ best_model_hdf5_format.h5
 .ipynb_checkpoints
 data
 models
+tensorboard_logs
