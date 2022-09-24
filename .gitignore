@@ -4,5 +4,6 @@ best_model_hdf5_format.h5
 data
 models
 tensorboard_logs
-tensorboard_logs_1
+tensorboard_logs_feature_extraction
+tensorboard_logs_fine_tuning
 __pycache__
