@@ -4,4 +4,5 @@ best_model_hdf5_format.h5
 data
 models
 tensorboard_logs
+tensorboard_logs_1
 __pycache__
